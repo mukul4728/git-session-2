@@ -1,2 +1,2 @@
 # git-session
-first
+first session of mizilla nsit campus club.
